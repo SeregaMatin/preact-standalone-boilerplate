@@ -5,9 +5,9 @@ to run this project in browser we have to use some http server anyway (otherwise
 So to run this project we have to use some http server.
 Below is an example of running this project using `serve` npm package:
 * Open cmd/PowerShell
-* npm i -g serve
-* cd <preact-standalone-boilerplate root dir>
-* serve
+* `npm i -g serve`
+* `cd <preact-standalone-boilerplate root dir`
+* `serve`
 * Open your browser & visit http://localhost:3000/
 
 Feel free to use any other http server you like.
